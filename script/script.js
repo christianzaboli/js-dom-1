@@ -6,10 +6,6 @@ const lightSwitch = document.getElementById('switch');
 
 // creo la variabile che seleziona il button alternato
 const lightSwitch1 = document.getElementById('switch1');
-console.log(lightSwitch1);
-
-const lightSwitch1text = document.getElementById('switch1').innerHTML;
-console.log(lightSwitch1text);
 
 // eventlistener per far funzionare il button singolo
 lightSwitch.addEventListener('click', 
