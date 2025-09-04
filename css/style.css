@@ -1,0 +1,11 @@
+.lampadinaSpenta {
+height: 300px;
+width: 300px;
+background-image: url(../img/white_lamp.png);
+}
+
+.lampadinaAccesa {
+height: 300px;
+width: 300px;
+background-image: url(../img/yellow_lamp.png);
+}
